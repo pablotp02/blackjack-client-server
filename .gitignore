@@ -1,0 +1,19 @@
+# Compilados
+*.o
+*.out
+cliente
+servidor
+
+# Build
+build/
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# Linux
+*~
+
+# Universidad
+p2-blackjack.pdf
